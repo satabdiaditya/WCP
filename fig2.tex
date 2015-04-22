@@ -1,0 +1,15 @@
+
+\centering
+\begin{tikzpicture}[scale=1.25]
+
+\foreach \i in {\xMin,...,\xMax} {
+        \draw[red] (\i,1) -- (\i + 1,1);
+        \filldraw[red] (\i,1) circle (1pt);
+ }
+\filldraw[red] (7,1) circle (1pt); 
+ 
+\draw[blue, ultra thick] (0,1) arc(180:0:0.5); 
+\draw[blue, ultra thick] (2,1) arc(180:0:2); 
+\draw[blue, ultra thick] (2,1) arc(180:0:1); 
+
+\end{tikzpicture} 

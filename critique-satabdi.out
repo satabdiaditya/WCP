@@ -1,0 +1,32 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Protein Structure Similarity}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Contact and Contact Map Overlap \(CMO\)}{chapter.1}% 3
+\BOOKMARK [0][-]{chapter.2}{Approximation Algorithms for Maximum CMO}{}% 4
+\BOOKMARK [1][-]{section.2.1}{CMO as a Graph Theoretic Optimization Problem}{chapter.2}% 5
+\BOOKMARK [1][-]{section.2.2}{NP-Hardness of CMO}{chapter.2}% 6
+\BOOKMARK [1][-]{section.2.3}{Polynomial Algorithm for Stack, Queue and Staircase}{chapter.2}% 7
+\BOOKMARK [2][-]{subsection.2.3.1}{O\(n4\) algorithm for maximum CMO of 2-stack and degree-2 contact map}{section.2.3}% 8
+\BOOKMARK [2][-]{subsection.2.3.2}{O\(n3\) algorithm for maximum CMO of 2-staircase and degree-2 contact map}{section.2.3}% 9
+\BOOKMARK [2][-]{subsection.2.3.3}{O\(n6\) algorithm for maximum CMO of augmented 2-staircase and degree-2 contact map}{section.2.3}% 10
+\BOOKMARK [1][-]{section.2.4}{Decomposition Theorem and Approximation Results}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.5}{Improvement of Result in 2-dimensional model}{chapter.2}% 12
+\BOOKMARK [2][-]{subsection.2.5.1}{Staircase and CMO}{section.2.5}% 13
+\BOOKMARK [2][-]{subsection.2.5.2}{Stack and CMO}{section.2.5}% 14
+\BOOKMARK [1][-]{section.2.6}{CMO in 3-dimension}{chapter.2}% 15
+\BOOKMARK [0][-]{chapter.3}{Exact Algorithms for Maximum CMO}{}% 16
+\BOOKMARK [1][-]{section.3.1}{Integer Programming Model for CMO}{chapter.3}% 17
+\BOOKMARK [1][-]{section.3.2}{Solution of Integer Programming Model for CMO}{chapter.3}% 18
+\BOOKMARK [2][-]{subsection.3.2.1}{Finding a Tighter Constrain Set}{section.3.2}% 19
+\BOOKMARK [2][-]{subsection.3.2.2}{Lagrangian Relaxation}{section.3.2}% 20
+\BOOKMARK [2][-]{subsection.3.2.3}{Branch-and-bound Algorithm}{section.3.2}% 21
+\BOOKMARK [0][-]{chapter.4}{Critical Analysis}{}% 22
+\BOOKMARK [1][-]{section.4.1}{Advantages of Using CMO}{chapter.4}% 23
+\BOOKMARK [2][-]{subsection.4.1.1}{CMO vs RMSD}{section.4.1}% 24
+\BOOKMARK [2][-]{subsection.4.1.2}{CMO vs LCP Problem}{section.4.1}% 25
+\BOOKMARK [1][-]{section.4.2}{Limitations and Areas of Improvement}{chapter.4}% 26
+\BOOKMARK [2][-]{subsection.4.2.1}{CMO Problem vs Spectral Methods}{section.4.2}% 27
+\BOOKMARK [2][-]{subsection.4.2.2}{Improvement of Upper Bounds in Exact Algorithms}{section.4.2}% 28
+\BOOKMARK [2][-]{subsection.4.2.3}{Practical Utility of Exact Algorithms}{section.4.2}% 29
+\BOOKMARK [2][-]{subsection.4.2.4}{Biological Information for 3D-optimal Alignment}{section.4.2}% 30
+\BOOKMARK [2][-]{subsection.4.2.5}{Machine Learning for CMO Problem}{section.4.2}% 31
+\BOOKMARK [0][-]{section*.14}{Bibliography}{}% 32

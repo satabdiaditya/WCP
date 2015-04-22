@@ -1,0 +1,39 @@
+\chapter{Approximation Algorithms for Maximum CMO}
+\label{approximation}
+
+This chapter reviews the approximation algorithms for solving the maximum CMO problem. To begin with, \citet{goip99} represent the problem as a graph theoretic abstraction and prove the NP-hardness of the problem. The authors further propose a special class of CMO problem for which 3-approximation algorithm runs in $O(n^6)$ time. In the next few sections, the 6-approximation algorithm with better time complexity for the same class of problems, as proposed in \citet{agmw07}, is discussed. Moreover, an $O(\sqrt n)$ approximation algorithm, also suggested by \citet{agmw07}, for the 3-dimensional self-avoiding walk is summarized. Such results are the first of their kind for 3-dimensional self-avoiding walk.
+
+%\section{NP-hardness and Approximation Result for Special Cases}
+\section {CMO as a Graph Theoretic Optimization Problem}
+\input{definition}
+
+\section{NP-Hardness of CMO}
+\input{hardness}
+
+\section{Polynomial Algorithm for Stack, Queue and Staircase}
+\input{sqs}
+
+\section{Decomposition Theorem and Approximation Results}
+\input{decomposition}
+
+\section {Improvement of Result in 2-dimensional model}
+\citet{agmw07} address two open problems from \citet{goip99}. Although they do not provide a better approximation algorithm, the running time of the 6-approximation algorithm is $O(n^3 \log n)$ which is a significant improvement from the previous algorithm in two dimensions. The algorithms described in the next two subsections use the same structure of proof from \citet{goip99}.
+\subsection{Staircase and CMO}
+\input{staircasecmo}
+
+\subsection{Stack and CMO}
+\input{stackcmo}
+
+\section {CMO in 3-dimension}
+\input{napprox}
+
+\chapter{Exact Algorithms for Maximum CMO}
+\label{exact}
+Though NP-hard problems are not solvable in polynomial time, they can be solved through exhaustive search. It is when the size of the search space grows, the running time becomes astronomically large or memory becomes a bottleneck. However, for some special cases, it is possible to design algorithms that are faster than the exhaustive search. These algorithms are called ``Exact" algorithms. There exists four such exact algorithms for the maximum CMO problem where the branch-and-bound framework is adopted to ensure global optimality. The four algorithms are -- B \& Cut \citep{carr00}, Clique \citep{strick05}, LAGR \citep{cap04} and CMOS \citep{xie07}. The algorithm proposed by \citet{anmy11} and discussed extensively in this report outperforms the other exact algorithms and successfully reproduces the results of previous algorithms in much less time. The sections below discuss the formulation of the mathematical model and also the structure and proofs of the algorithm in \citet{anmy11}.
+
+\section {Integer Programming Model for CMO}
+\input{ipcmo}
+\section {Solution of Integer Programming Model for CMO}
+\input{lprelax}
+
+

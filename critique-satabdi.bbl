@@ -1,0 +1,314 @@
+\begin{thebibliography}{49}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Achterberg et~al.(2005)Achterberg, Koch, and Martin]{ackm05}
+Tobias Achterberg, Thorsten Koch, and Alexander Martin.
+\newblock Branching rules revisited.
+\newblock 33\penalty0 (1):\penalty0 42--54, 2005.
+
+\bibitem[Agarwal et~al.(2007)Agarwal, Mustafa, and Wang]{agmw07}
+Pankaj~K. Agarwal, Nabil~H. Mustafa, and Yusu Wang.
+\newblock Fast molecular shape matching using contact maps.
+\newblock \emph{Journal of Computational Biology}, 14\penalty0 (2):\penalty0
+  131--143, 2007.
+
+\bibitem[Andonov et~al.(2004)Andonov, Balev, and Yanev]{andonov04}
+Rumen Andonov, Stefan Balev, and Nicola Yanev.
+\newblock Protein threading: From mathematical models to parallel
+  implementations.
+\newblock \emph{INFORMS Journal on Computing}, 16\penalty0 (4):\penalty0
+  393--405, 2004.
+
+\bibitem[Andonov et~al.(2008)Andonov, Yanev, and Malod-Dognin]{andonov08}
+Rumen Andonov, Nicola Yanev, and No{\"e}l Malod-Dognin.
+\newblock An efficient lagrangian relaxation for the contact map overlap
+  problem.
+\newblock In \emph{Algorithms in Bioinformatics}, pages 162--173. Springer,
+  2008.
+
+\bibitem[Andonov et~al.(2011)Andonov, Malod-Dognin, and Yanev]{anmy11}
+Rumen Andonov, Noël Malod-Dognin, and Nicola Yanev.
+\newblock Maximum contact map overlap revisited.
+\newblock \emph{Journal of Computational Biology}, 18\penalty0 (1):\penalty0
+  27--41, 2011.
+
+\bibitem[Berger and Leighton(1998)]{bele98}
+B.~Berger and T.~Leighton.
+\newblock {{P}rotein folding in the hydrophobic-hydrophilic ({H}{P}) model is
+  {N}{P}-complete}.
+\newblock \emph{J. Comput. Biol.}, 5\penalty0 (1):\penalty0 27--40, 1998.
+
+\bibitem[Bertsekas(1999)]{bert99}
+D.P. Bertsekas.
+\newblock \emph{Nonlinear Programming}.
+\newblock Athena Scientific, 1999.
+
+\bibitem[Bertsimas and Tsitsiklis(1997)]{bets97}
+Dimitris Bertsimas and John Tsitsiklis.
+\newblock \emph{Introduction to Linear Optimization}.
+\newblock Athena Scientific, 1st edition, 1997.
+
+\bibitem[Bhattacharya et~al.(2006)Bhattacharya, Bhattacharyya, and
+  Chandra]{bhat06}
+Sourangshu Bhattacharya, Chiranjib Bhattacharyya, and Nagasuma~R Chandra.
+\newblock Projections for fast protein structure retrieval.
+\newblock \emph{BMC bioinformatics}, 7\penalty0 (Suppl 5):\penalty0 S5, 2006.
+
+\bibitem[Blundell and Johnson(1993)]{bljo93}
+Tom~L. Blundell and Mark~S. Johnson.
+\newblock Catching a common fold.
+\newblock \emph{Protein Science}, 2\penalty0 (6):\penalty0 877--883, 1993.
+
+\bibitem[Caprara et~al.(2004)Caprara, Carr, Istrail, Lancia, and Walenz]{cap04}
+Alberto Caprara, Robert Carr, Sorin Istrail, Giuseppe Lancia, and Brian Walenz.
+\newblock 1001 optimal pdb structure alignments: integer programming methods
+  for finding the maximum contact map overlap.
+\newblock \emph{Journal of Computational Biology}, 11\penalty0 (1):\penalty0
+  27--52, 2004.
+
+\bibitem[Carr et~al.(2000)Carr, Lancia, Istrail, and Genomics]{carr00}
+Robert~D. Carr, Giuseppe Lancia, Sorin Istrail, and Celera Genomics.
+\newblock Branch-and-cut algorithms for independent set problems: Integrality
+  gap and an application to protein structure alignment.
+\newblock In \emph{SAND Report SAND2000-2171, Sandia National Laboratories,
+  2000, available at http://infoserve.sandia.gov/sand doc/2000/002171.pdf},
+  2000.
+
+\bibitem[Cohen and Sternberg(1980)]{cost80}
+F.~E. Cohen and M.~J. Sternberg.
+\newblock {{O}n the prediction of protein structure: {T}he significance of the
+  root-mean-square deviation}.
+\newblock \emph{J. Mol. Biol.}, 138\penalty0 (2):\penalty0 321--333, Apr 1980.
+
+\bibitem[Crescenzi et~al.(1998)Crescenzi, Goldman, Papadimitriou, Piccolboni,
+  and Yannakakis]{crgp98}
+Pierluigi Crescenzi, Deborah Goldman, Christos~H. Papadimitriou, Antonio
+  Piccolboni, and Mihalis Yannakakis.
+\newblock On the complexity of protein folding.
+\newblock \emph{Journal of Computational Biology}, 5\penalty0 (3):\penalty0
+  423--465, 1998.
+
+\bibitem[Diamond(1988)]{diamond88}
+R.~Diamond.
+\newblock {A note on the rotational superposition problem}.
+\newblock \emph{Acta Crystallographica Section A}, 44\penalty0 (2):\penalty0
+  211--216, Mar 1988.
+
+\bibitem[Diamond(1992)]{diamond92}
+R.~Diamond.
+\newblock On the multiple simultaneous superposition of molecular structures by
+  rigid body transformations.
+\newblock \emph{Protein Science}, 1\penalty0 (10):\penalty0 1279--1287, 1992.
+
+\bibitem[Dill and MacCallum(2012)]{dima12}
+Ken~A. Dill and Justin~L. MacCallum.
+\newblock {The Protein-Folding Problem, 50 Years On}.
+\newblock \emph{Science}, 338\penalty0 (6110):\penalty0 1042--1046, November
+  2012.
+
+\bibitem[Duchi et~al.(2011)Duchi, Hazan, and Singer]{duhs11}
+John Duchi, Elad Hazan, and Yoram Singer.
+\newblock Adaptive subgradient methods for online learning and stochastic
+  optimization.
+\newblock \emph{J. Mach. Learn. Res.}, 12:\penalty0 2121--2159, July 2011.
+
+\bibitem[Erd�s~P(1935)]{erd35}
+Szekeres~G. Erd�s~P.
+\newblock A combinatorial problem in geometry.
+\newblock \emph{Compositio Mathematica}, 2:\penalty0 463--470, 1935.
+
+\bibitem[Godzik and Skolnick(1994)]{gosk94}
+Adam Godzik and Jeffrey Skolnick.
+\newblock Flexible algorithm for direct multiple alignment of protein
+  structures and sequences.
+\newblock \emph{Computer applications in the biosciences: CABIOS}, 10\penalty0
+  (6):\penalty0 587--596, 1994.
+
+\bibitem[Goldman et~al.(1999)Goldman, Y, and Z]{goip99}
+Deborah Goldman, Sorin~Istrail Y, and Christos H.~Papadimitriou Z.
+\newblock Algorithmic aspects of protein structure similarity.
+\newblock In \emph{In 40th Annual Symposium on Foundations of Computer
+  Science}, pages 512--521, 1999.
+
+\bibitem[Held et~al.(1974)Held, Wolfe, and Crowder]{hewc74}
+Michael Held, Philip Wolfe, and HarlanP. Crowder.
+\newblock Validation of subgradient optimization.
+\newblock \emph{Mathematical Programming}, 6\penalty0 (1):\penalty0 62--88,
+  1974.
+\newblock ISSN 0025-5610.
+
+\bibitem[Ho et~al.(2013)Ho, Zhang, Ramamohanarao, and Martin]{hozr13}
+H.~K. Ho, L.~Zhang, K.~Ramamohanarao, and S.~Martin.
+\newblock {{A} survey of machine learning methods for secondary and
+  supersecondary protein structure prediction}.
+\newblock \emph{Methods Mol. Biol.}, 932:\penalty0 87--106, 2013.
+
+\bibitem[Holm and Sander(1993)]{hosa93}
+L.~Holm and C.~Sander.
+\newblock Protein structure comparison by alignment of distance matrices.
+\newblock \emph{J. Mol. Biol.}, 233:\penalty0 123--138, 1993.
+
+\bibitem[Holm and Sander(1996)]{hosa96}
+L.~Holm and C.~Sander.
+\newblock Mapping the protein universe.
+\newblock \emph{Science}, 273\penalty0 (5275):\penalty0 595--603, August 1996.
+
+\bibitem[Hu et~al.(2004)Hu, Pan, Harrison, and Tai]{huph04}
+Hae-Jin Hu, Yi~Pan, Robert~W. Harrison, and Phang~C. Tai.
+\newblock Protein secondary structure prediction using support vector machine
+  with advanced encoding schemes.
+\newblock In Belur~V. Dasarathy, editor, \emph{Data Mining and Knowledge
+  Discovery: Theory, Tools, and Technology}, volume 5433 of \emph{SPIE
+  Proceedings}, pages 80--87. SPIE, 2004.
+
+\bibitem[Ilari and Savino(2008)]{anca08}
+Andrea Ilari and Carmelinda Savino.
+\newblock Protein structure determination by x-ray crystallography.
+\newblock 452, May 2008.
+
+\bibitem[Iyer and Bilmes(2012)]{iybi12}
+Rishabh Iyer and Jeff~A. Bilmes.
+\newblock Submodular-bregman and the lov{\'a}sz-bregman divergences with
+  applications.
+\newblock In \emph{NIPS}, pages 2942--2950, 2012.
+
+\bibitem[Iyer et~al.(2013)Iyer, Jegelka, and Bilmes]{iyjb13}
+Rishabh Iyer, Stefanie Jegelka, and Jeff Bilmes.
+\newblock Curvature and optimal algorithms for learning and minimizing
+  submodular functions.
+\newblock \emph{CoRR}, abs/1311.2110, 2013.
+
+\bibitem[Iyer and Bilmes(2013)]{iybi13}
+Rishabh~K. Iyer and Jeff~A. Bilmes.
+\newblock Submodular optimization with submodular cover and submodular knapsack
+  constraints.
+\newblock In \emph{NIPS}, pages 2436--2444, 2013.
+
+\bibitem[Kabsch(1976)]{kabsch76}
+Wolfgang Kabsch.
+\newblock A solution for the best rotation to relate two sets of vectors.
+\newblock \emph{Acta Crystallographica Section A: Crystal Physics, Diffraction,
+  Theoretical and General Crystallography}, 32\penalty0 (5):\penalty0 922--923,
+  1976.
+
+\bibitem[Klein(1998)]{klein98}
+Philip~N. Klein.
+\newblock Computing the edit-distance between unrooted ordered trees.
+\newblock In \emph{Proceedings of the 6th Annual European Symposium on
+  Algorithms}, ESA '98, pages 91--102, London, UK, UK, 1998. Springer-Verlag.
+
+\bibitem[Knuth(1973)]{k73}
+D.E Knuth.
+\newblock \emph{The Art of Computer Programming}, volume~1.
+\newblock Addison-Wesley, Reading,MA, 1973.
+
+\bibitem[Kshirsagar et~al.(2013)Kshirsagar, Carbonell, and
+  Klein-Seetharaman]{ksck13}
+Meghana Kshirsagar, Jaime Carbonell, and Judith Klein-Seetharaman.
+\newblock Multitask learning for host–pathogen protein interactions.
+\newblock \emph{Bioinformatics}, 29\penalty0 (13):\penalty0 i217--i226, 2013.
+
+\bibitem[Li et~al.(2013)Li, Lu, Lu, Catanzaro, Ravi, Schwartz, Pontes,
+  Gir{\'a}ldez, Aguilar-Ruiz, Cui, et~al.]{li13}
+Shuai~Cheng Li, Songjian Lu, Xinghua Lu, Daniele Catanzaro, Ramamoorthi Ravi,
+  Russell Schwartz, Beatriz Pontes, Ra{\'u}l Gir{\'a}ldez, Jes{\'u}s~S
+  Aguilar-Ruiz, Xuefeng Cui, et~al.
+\newblock The difficulty of protein structure alignment under the rmsd.
+\newblock \emph{Algorithms for Molecular Biology}, 8\penalty0 (1), 2013.
+
+\bibitem[Lichtenstein(1982)]{lich82}
+D.~Lichtenstein.
+\newblock Planar formulae and their uses.
+\newblock \emph{SIAM Journal on Computing}, 11\penalty0 (2):\penalty0 329--343,
+  1982.
+
+\bibitem[Mitchell(1998)]{mitc98}
+John~E. Mitchell.
+\newblock Branch-and-cut algorithms for integer programming.
+\newblock 1998.
+\newblock URL \url{http://homepages.rpi.edu/~mitchj/papers/bc_hao.pdf}.
+
+\bibitem[Papadimitriou and Steiglitz(1982)]{past82}
+Christos~H. Papadimitriou and Kenneth Steiglitz.
+\newblock \emph{Combinatorial Optimization: Algorithms and Complexity}.
+\newblock Prentice-Hall, Inc., Upper Saddle River, NJ, USA, 1982.
+
+\bibitem[Strickland et~al.(2005)Strickland, Barnes, and Sokol]{strick05}
+Dawn~M Strickland, Earl Barnes, and Joel~S Sokol.
+\newblock Optimal protein structure alignment using maximum cliques.
+\newblock \emph{Operations research}, 53\penalty0 (3):\penalty0 389--402, 2005.
+
+\bibitem[Taylor and Orengo(1989)]{taor89}
+W.~R. Taylor and C.~A. Orengo.
+\newblock {{A} holistic approach to protein structure alignment}.
+\newblock \emph{Protein Eng.}, 2\penalty0 (7):\penalty0 505--519, May 1989.
+
+\bibitem[Teso et~al.(2010)Teso, Risio, Passerini, and Battiti]{terp10}
+Stefano Teso, Cristina Risio, Andrea Passerini, and Roberto Battiti.
+\newblock An on/off lattice approach to protein structure prediction from
+  contact maps.
+\newblock In TjeerdM.H. Dijkstra, Evgeni Tsivtsivadze, Elena Marchiori, and Tom
+  Heskes, editors, \emph{Pattern Recognition in Bioinformatics}, volume 6282 of
+  \emph{Lecture Notes in Computer Science}, pages 368--379. Springer Berlin
+  Heidelberg, 2010.
+
+\bibitem[Vriend and Sander(1991)]{vrsa91}
+Gerrit Vriend and Chris Sander.
+\newblock Detection of common three-dimensional substructures in proteins.
+\newblock \emph{Proteins: Structure, Function, and Bioinformatics}, 11\penalty0
+  (1):\penalty0 52--58, 1991.
+
+\bibitem[Vullo et~al.(2008)Vullo, Passerini, Frasconi, Costa, and
+  Pollastri]{vupf08}
+Alessandro Vullo, Andrea Passerini, Paolo Frasconi, Fabrizio Costa, and
+  Gianluca Pollastri.
+\newblock On the convergence of protein structure and dynamics. statistical
+  learning studies of pseudo folding pathways.
+\newblock In Elena Marchiori and Jason~H. Moore, editors, \emph{EvoBIO}, volume
+  4973 of \emph{Lecture Notes in Computer Science}, pages 200--211. Springer,
+  2008.
+
+\bibitem[Waudby et~al.(2013)Waudby, Launay, Cabrita, and Christodoulou]{walc13}
+Christopher~A. Waudby, Hélène Launay, Lisa~D. Cabrita, and John
+  Christodoulou.
+\newblock Protein folding on the ribosome studied using \{NMR\} spectroscopy.
+\newblock \emph{Progress in Nuclear Magnetic Resonance Spectroscopy},
+  74:\penalty0 57 -- 75, 2013.
+
+\bibitem[Wen et~al.(2005)Wen, Wang, Li, Nie, and Yang]{wewm05}
+Zhi-ning Wen, Ke-long Wang, Meng-long Li, Fu-sheng Nie, and Yi~Yang.
+\newblock Analyzing functional similarity of protein sequences with discrete
+  wavelet transform.
+\newblock \emph{Comput. Biol. Chem.}, 29\penalty0 (3):\penalty0 220--228, June
+  2005.
+
+\bibitem[Xie and Sahinidis(2007)]{xie07}
+Wei Xie and Nikolaos~V Sahinidis.
+\newblock A reduction-based exact algorithm for the contact map overlap
+  problem.
+\newblock \emph{Journal of Computational Biology}, 14\penalty0 (5):\penalty0
+  637--654, 2007.
+
+\bibitem[Zhang et~al.(2005)Zhang, Huang, Zhu, and Li]{zhhz05}
+Guang-Zheng Zhang, D.~S. Huang, Y.~P. Zhu, and Y.~X. Li.
+\newblock Improving protein secondary structure prediction by using the residue
+  conformational classes.
+\newblock \emph{Pattern Recogn. Lett.}, 26\penalty0 (15):\penalty0 2346--2352,
+  November 2005.
+
+\bibitem[Zhang(2008)]{zhang08}
+Y.~Zhang.
+\newblock {{P}rogress and challenges in protein structure prediction}.
+\newblock \emph{Curr. Opin. Struct. Biol.}, 18\penalty0 (3):\penalty0 342--348,
+  Jun 2008.
+
+\bibitem[Zuker and Somorjai(1989)]{zuso89}
+M.~Zuker and R.~L. Somorjai.
+\newblock {{T}he alignment of protein structures in three dimensions}.
+\newblock \emph{Bull. Math. Biol.}, 51\penalty0 (1):\penalty0 55--78, 1989.
+
+\end{thebibliography}
